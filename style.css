@@ -1,6 +1,9 @@
 body {
+    margin: 30px;
+    padding: auto;
+    text-align: center;
     font-family: 'Times New Roman', Times, serif;
     color: black;
-background-color: darkorchid;
+    background-color: rgb(205, 162, 226);
 }
 
