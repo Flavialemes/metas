@@ -2,11 +2,10 @@ body {
     margin: 30px;
     padding: auto;
     text-align: justify;
-    font-style: oblique;
+    font: message-box;
     color: black;
     background-color: rgb(205, 162, 226);
+
 }
-p1{
-    font-style: italic;
-}
+
 
