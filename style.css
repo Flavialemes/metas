@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 body {
     margin: 30px;
     padding: auto;
     text-align: justify;
-    font: message-box;
+    font-family:Dancing Script ;
     color: black;
     background-color: rgb(205, 162, 226);
 
