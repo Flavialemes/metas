@@ -37,7 +37,7 @@ body {
 }
 
 .botao {
-    font-family: Jim Nightshade;
+    font-family: family Honk;
     background-color: var(--botao-inativo);
     color: var(--preto);
     display: flex;
