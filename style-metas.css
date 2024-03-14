@@ -37,7 +37,7 @@ body {
 }
 
 .botao {
-    font-family: family Honk;
+    font-family: Honk;
     background-color: var(--botao-inativo);
     color: var(--preto);
     display: flex;
