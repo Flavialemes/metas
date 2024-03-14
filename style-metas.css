@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap');
 :root {
     --cor-de-fundo: #f18080;
     --roxo: #b357ff;
@@ -36,7 +36,7 @@ body {
 }
 
 .botao {
-    font-family: "Crakra Petch", sans-serif;
+    font-family: Jim Nightshade;
     background-color: var(--botao-inativo);
     color: var(--preto);
     display: flex;
