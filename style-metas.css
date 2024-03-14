@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=Ojuju:wght@200..800&display=swap');
 :root {
     --cor-de-fundo: #fdbdbd;
     --roxo: #b357ff;
@@ -88,4 +89,7 @@ body {
 }
 h3{
     font-family: Jim Nightshade;
+}
+h4{
+    font-family: Ojuju;
 }
