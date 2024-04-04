@@ -3,6 +3,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Honk&family=Ojuju:wght@200..800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Honk&family=Ojuju:wght@200..800&family=Tourney:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
 :root {
     --cor-de-fundo: #fdbdbd;
     --roxo: #b357ff;
@@ -59,8 +62,6 @@ body {
 .botoes {
     display: block;
 }
-
-/*Aula 03*/
 
 .ativo {
     background-color: var(--botao-ativo);
