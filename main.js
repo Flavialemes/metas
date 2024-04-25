@@ -29,12 +29,12 @@ function calculaTempo(tempoObjetivo) {
     let minutos = Math.floor(segundos / 60);//calcula os minutos restantes
     let horas = Math.floor(minutos / 60);//calcula as horas restantes
     let dias = Math.floor(horas / 24);//calcula os dias restantes
-   
+
     segundos %= 60;  //obtem o resto da divisão dos segundos
     minutos %= 60;   //obtem o resto da divisão dos minutos
     horas %= 24;    //obtem o resto da divisão das horas
 
-//a partir daqui fazer o da tela
- 
- return dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos";
+    //a partir daqui fazer o da tela
+
+    return dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos";
 }
