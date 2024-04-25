@@ -21,7 +21,7 @@ body {
     font-family: 'Chakra Petch', sans-serif;
 }
 
-.conteudo-principal 
+.conteudo-principal {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -125,4 +125,27 @@ div{
 h2{
     font-family: Tourney;
     
+}
+
+.abas-textos{
+    background-color: var(--texto-fundo);
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
+}
+.aba-conteudo.ativo{
+    display:block;
+}
+
+.aba-conteudo{
+    display: none;
+}
+
+.aba-conteudo-titulo-principal{
+    font-size: 28px;
+    text-align: center;
+}
+.aba-conteudo-titulo-secundario{
+    text-align: center;
+    color: var(--verde);
+    text-transform: uppercase;
 }
